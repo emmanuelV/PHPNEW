@@ -61,6 +61,12 @@ $objLang=new Translation();
 		</td>
 	</tr>
 </table>
+<div style="display:block">
+
+<h5>&copy; 1998-2013 -- Langauage Logy</h5>
+
+</div>
+
 <br><br>
 </body>
 </html>
