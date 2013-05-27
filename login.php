@@ -14,6 +14,7 @@ if($_REQUEST['submit']!='')
     	<table border=0 cellpadding=3 cellspacing=3 align=center style="padding-top:120px;" valign="center">
 	 <tr>
 	    <td colspan="3" align="center"><h3>LOGIN</h3></td>
+	    <td colspan="3" align="center"><h3>LOGIN</h3></td>
 	  </tr>
 	  <tr>
 	    <td valign="top">Username:</td>
